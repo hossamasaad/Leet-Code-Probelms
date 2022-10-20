@@ -12,5 +12,3 @@ class Solution(object):
                 return char
         
         return first
-
-        
